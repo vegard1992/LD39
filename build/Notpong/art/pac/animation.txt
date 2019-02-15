@@ -1,1 +1,0 @@
-nom 30 png 5 pac pac_closing1 pac_closing2 pac_closing3 pac_closed 7 1 1 1 5
